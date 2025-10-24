@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fy2ne  
 
 Welcome to my GitHub profile! 🚀  
-I’m a **Full-Stack Developer, Minecraft Modder, and Designer** who loves building creative projects and experimenting with new technologies.  
+I’m a **Node.js Full-Stack Developer, Minecraft Modder, and Web Designer** who loves building creative projects and experimenting with new technologies.  
 
 ---
 
