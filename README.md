@@ -31,7 +31,7 @@ I’m a **Node.js Full-Stack Developer, Minecraft Modder, and Web Designer** who
 ## 🛠️ Skills
 - **Languages:** JavaScript, Java, HTML, CSS, Node.js  
 - **Tools:** Git, GitHub, VS Code, IntelliJ  
-- **Frameworks & Libs:** React, Tailwind, Express  
+- **Frameworks & Libs:** React, Vue, Express  
 
 ---
 
