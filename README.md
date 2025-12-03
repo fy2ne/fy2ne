@@ -1,45 +1,65 @@
 # 👋 Hi, I'm Fy2ne  
 
-Welcome to my GitHub profile! 🚀  
-I’m a **Node.js Full-Stack Developer, Minecraft Modder, and Web Designer** who loves building creative projects and experimenting with new technologies.  
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+Engineer;Creator+of+Minecraft+Modpacks;Discord+Bots+Developer" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🌍 From Morocco  
-- 💻 Passionate about **Web Development**, **Minecraft Modding**, and **Discord Bots**  
-- 🎯 Always learning and improving my skills  
-- ⚡ Fun fact: I turn ideas into real working projects!  
+- 🧩 Full-Stack developer focused on performance, structure, and clean code  
+- 💻 Working on web apps, Minecraft modpacks, and Discord automation  
+- 📦 Interested in backend systems, UI/UX, and scalable architectures  
 
 ---
 
-## 📊 GitHub Stats
-![Fy2ne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight)  
-![Fy2ne's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fy2ne&theme=tokyonight&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fy2ne&layout=compact&theme=tokyonight)  
+## 🛠️ Tech Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+### **Frameworks & Tools**
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea)
 
 ---
 
-## 📈 Progress
-- 🔥 Web Development: ![Progress](https://img.shields.io/badge/Progress-75%25-blue?style=flat-square)  
-- ⚙️ Minecraft Modding: ![Progress](https://img.shields.io/badge/Progress-85%25-green?style=flat-square)  
-- 🤖 Discord Bots: ![Progress](https://img.shields.io/badge/Progress-65%25-yellow?style=flat-square)  
-
-
----
-
-## 🛠️ Skills
-- **Languages:** JavaScript, Java, HTML, CSS, Node.js  
-- **Tools:** Git, GitHub, VS Code, IntelliJ  
-- **Frameworks & Libs:** React, Vue, Express  
+## 📦 Projects & Work
+- Web applications & SaaS tools  
+- Minecraft modpacks (Fabric / Forge)  
+- Discord bots and automation systems  
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [GitHub Profile](https://github.com/fy2ne)  
-- 🎮 Minecraft Projects on [Modrinth](https://modrinth.com/)  
-- 🌍 Discord Community: *Echos Network*  
+## 📊 GitHub Stats  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fy2ne&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
 
 ---
 
-⭐️ From [fy2ne](https://github.com/fy2ne)  
+## 💬 Social & Links
+- 📦 Minecraft Modpacks → *(Modrinth)*  
+- 🧩 GitHub Profile → **github.com/fy2ne**  
+- 🌐 Discord Community → **Echos Network**
+
+---
+
+<div align="center">
+  
+**⭐️ Thanks for visiting!**
+
+</div>
