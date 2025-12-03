@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+Engineer;Creator+of+Minecraft+Modpacks;Discord+Bots+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Dev;Web+Optimizer;Minecraft+Modder;Discord+Bots+Dev" alt="Typing SVG" />
 
 </div>
 
