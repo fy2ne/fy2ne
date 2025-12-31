@@ -55,12 +55,12 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 - 📦 Minecraft Modpacks → *(Modrinth)*  
 - 🧩 GitHub Profile → **github.com/fy2ne**  
 - 🌐 Discord Community → **Exos & Quited**
-- 〽️ Discord Profile [![fy2ne's Discord status](https://dsc-readme.tsuni.dev/api/user/1165043058715394199?theme=nitroDark&primaryColor=000000&accentColor=000000&width=512)](https://github.com/TetraTsunami/discord-github-preview)
-
 ---
 
 <div align="center">
-  
+
+  [![fy2ne's Discord status](https://dsc-readme.tsuni.dev/api/user/1165043058715394199?theme=nitroDark&primaryColor=000000&accentColor=000000&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+
 **⭐️ Thanks for visiting!**
 
 </div>
