@@ -9,9 +9,9 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 ---
 
 ## 🚀 About Me
-- 🧩 Full-Stack developer focused on performance, structure, and clean code  
-- 💻 Working on web apps, Minecraft modpacks, and Discord automation  
-- 📦 Interested in backend systems, UI/UX, and scalable architectures  
+-  Full-Stack developer focused on performance, structure, and clean code  
+-  Working on web apps, Minecraft modpacks, and Discord automation  
+-  Interested in backend systems, UI/UX, and scalable architectures  
 
 ---
 
@@ -52,9 +52,9 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 ---
 
 ## 💬 Social & Links
-- 📦 Minecraft Modpacks → *(Modrinth)*  
-- 🧩 GitHub Profile → **github.com/fy2ne**  
-- 🌐 Discord Community → **Exos & Quited**
+-  Minecraft Modpacks → *(Modrinth)*  
+-  GitHub Profile → **github.com/fy2ne**  
+-  Discord Community → **Exos & Quited**
 ---
 
 <div align="center">
