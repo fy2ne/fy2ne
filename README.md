@@ -44,8 +44,8 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=fy2ne&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=fy2ne&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 
