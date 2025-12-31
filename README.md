@@ -2,7 +2,7 @@
 Programmer and web developer focused on building clean, efficient solutions, with a particular interest in Minecraft-related projects and development.
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Dev;Web+Optimizer;Minecraft+Modder;Lvl 0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Dev;Web+Optimizer;Minecraft+Modder;Lvl+0" alt="Typing SVG" />
 
 </div>
 
