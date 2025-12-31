@@ -2,7 +2,7 @@
 Programmer and web developer focused on building clean, efficient solutions, with a particular interest in Minecraft-related projects and development.
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Dev;Web+Optimizer;Minecraft+Modder;Discord+Bots+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Dev;Web+Optimizer;Minecraft+Modder;Lvl 0" alt="Typing SVG" />
 
 </div>
 
@@ -41,20 +41,21 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fy2ne&theme=tokyonight&hide_border=true" height="160" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=fy2ne&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-</div>
 
 ---
 
 ## 💬 Social & Links
 - 📦 Minecraft Modpacks → *(Modrinth)*  
 - 🧩 GitHub Profile → **github.com/fy2ne**  
-- 🌐 Discord Community → **Echos Network**
+- 🌐 Discord Community → **Exos & Quited**
+- 〽️ Discord Profile [![fy2ne's Discord status](https://dsc-readme.tsuni.dev/api/user/1165043058715394199?theme=nitroDark&primaryColor=000000&accentColor=000000&width=512)](https://github.com/TetraTsunami/discord-github-preview)
 
 ---
 
