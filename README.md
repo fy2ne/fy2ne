@@ -36,7 +36,7 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 
 ## 📦 Projects & Work
 - Web applications & SaaS tools  
-- Minecraft modpacks (Fabric / Forge)  
+- Minecraft modpacks
 - Discord bots and automation systems  
 
 ---
@@ -54,7 +54,7 @@ Programmer and web developer focused on building clean, efficient solutions, wit
 ## 💬 Social & Links
 -  Minecraft Modpacks → *(Modrinth)*  
 -  GitHub Profile → **github.com/fy2ne**  
--  Discord Community → **Exos & Quited**
+-  Discord Community → **Exos & Quiten**
 ---
 
 <div align="center">
