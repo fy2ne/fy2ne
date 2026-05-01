@@ -102,6 +102,6 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** — a 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=dark&section=footer&textBg=false&fontSize=20&reversal=true&fontAlign=50&fontAlignY=69" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=dark&section=footer&textBg=false&fontSize=20&reversal=true&fontAlign=50&fontAlignY=69" width="100%"/>
 
 </div>
