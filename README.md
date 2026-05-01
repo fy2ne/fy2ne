@@ -95,9 +95,9 @@ s
 [![Modrinth](https://img.shields.io/badge/Modrinth-000000?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/user/fy2ne)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1165043058715394199)
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@fy2ne)
-[![Website](https://img.shields.io/badge/fy2ne.me-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://fy2ne.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/fy2ne)
 [![Essential-Devs](https://img.shields.io/badge/Essential--Devs-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Essential-Devs)
+[![Website](https://img.shields.io/badge/fy2ne.me-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://fy2ne.me)
+
 
 </div>
 
