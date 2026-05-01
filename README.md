@@ -86,7 +86,6 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** — a 
 
 <div align="center">
 
-s
 </div>
 
 <div align="center">
