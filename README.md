@@ -3,7 +3,7 @@
 
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2200&pause=900&color=999999&center=true&vCenter=true&width=580&lines=engineering+things+that+shouldn%27t+exist+yet;AI+agent+orchestration+%C2%B7+bytecode+manipulation;vibe+coding+%C2%B7+surgical+output;bac+student+%C2%B7+building+in+the+gaps;%2F%2F+status%3A+shipping" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2200&pause=900&color=999999&center=true&vCenter=true&width=580&lines=engineering+things+that+shouldn%27t+exist+yet;AI+agent+orchestration+%C2%B7+bytecode+manipulation;vibe+coding+%C2%B7+surgical+output;student+%C2%B7+building+in+the+gaps;%2F%2F+status%3A+shipping" alt="typing" />
 
 </div>
 <br/>
