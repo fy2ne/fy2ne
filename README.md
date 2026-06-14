@@ -16,7 +16,7 @@
 
 ---
 
-baccalaureate student. i build infrastructure, not features.
+student. i build infrastructure, not features.
 
 the gap between what AI tooling *promises* and what it actually *delivers at scale* — that's where i work. low-latency execution, minimal footprints, systems that run quietly and correctly. dark-mode first, always. no placeholders, ever.
 
