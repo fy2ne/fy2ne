@@ -16,11 +16,11 @@
 
 ---
 
-student. i build infrastructure, not features.
+i build infrastructure, not features.
 
 the gap between what AI tooling *promises* and what it actually *delivers at scale* — that's where i work. low-latency execution, minimal footprints, systems that run quietly and correctly. dark-mode first, always. no placeholders, ever.
 
-currently leading **[Essential-Devs](https://github.com/Essential-Devs)** — a 9-person org building the things we couldn't find anywhere else.
+currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-person org building the things we couldn't find anywhere else.
 
 ---
 
@@ -29,10 +29,10 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** — a 
 ```
 
 **Weave Mod** — Fabric client mod that detects server-required mods on join, resolves them from Modrinth with TrustChain validation + SHA-512 hash checks, patches `/mods` in-place, and relaunches. zero friction. you never see it work, which is the point.
+**Weavetab MCP** — an open-source MCP server for AI browser automation built directly on Chrome DevTools Protocol.
 
 **[Quiten](https://quiten.tech)** — AI agent infrastructure. autonomous financial operations under a zero-trust model. Cloudflare Durable Objects, Managed OAuth. not a chatbot.
-
-**Modrinth** — mods and tools at [`modrinth.com/user/fy2ne`](https://modrinth.com/user/fy2ne)
+**[modrinth](https://modrinth.com/user/fy2ne)** — modded minecraft
 
 ---
 
