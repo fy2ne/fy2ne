@@ -32,6 +32,7 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-p
 **Weavetab MCP** — an open-source MCP server for AI browser automation built directly on Chrome DevTools Protocol.
 
 **[Quiten](https://quiten.tech)** — AI agent infrastructure. autonomous financial operations under a zero-trust model. Cloudflare Durable Objects, Managed OAuth. not a chatbot.
+
 **[modrinth](https://modrinth.com/user/fy2ne)** — modded minecraft
 
 ---
