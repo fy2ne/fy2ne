@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0a0a0a&height=150&section=header&text=fy2ne&fontColor=ffffff&fontSize=50&fontAlignY=65&animation=fadeIn" width="100%"/>
-
 </div>
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2200&pause=900&color=999999&center=true&vCenter=true&width=580&lines=engineering+things+that+shouldn%27t+exist+yet;AI+agent+orchestration+%C2%B7+bytecode+manipulation;vibe+coding+%C2%B7+surgical+output;student+%C2%B7+building+in+the+gaps;%2F%2F+status%3A+shipping" alt="typing" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2200&pause=900&color=999999&center=true&vCenter=true&width=580&lines=engineering+things+that+shouldn%27t+exist+yet;AI+agent+orchestration+%C2%B7+browser+automation;MCP+%C2%B7+DevTools+Protocol+%C2%B7+agentic+systems;student+%C2%B7+building+in+the+gaps;%2F%2F+status%3A+shipping" alt="typing" />
 </div>
+
 <br/>
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 i build infrastructure, not features.
 
-the gap between what AI tooling *promises* and what it actually *delivers at scale* — that's where i work. low-latency execution, minimal footprints, systems that run quietly and correctly. dark-mode first, always. no placeholders, ever.
+the gap between what AI tooling *promises* and what it actually *delivers* — that's where i work. low-latency execution, minimal footprint, systems designed to disappear into the background. dark-mode first, always. no placeholders.
 
-currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-person org building the things we couldn't find anywhere else.
+student and indie developer leading **[Essential-Devs](https://github.com/Essential-Devs)** — a 14-person org shipping the things we couldn't find anywhere else.
 
 ---
 
@@ -28,14 +28,11 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-p
 // active_processes
 ```
 
-**Weave Mod** — Fabric client mod that detects server-required mods on join, resolves them from Modrinth with TrustChain validation + SHA-512 hash checks, patches `/mods` in-place, and relaunches. zero friction. you never see it work, which is the point.
+**[WeaveTab MCP](https://github.com/Essential-Devs)** — open-source MCP server for AI browser automation built directly on Chrome DevTools Protocol. ships as a Chrome extension + MCP server with independent semver across both components. agentic browser control, zero overhead. you never see it work — which is the point.
 
-**Weavetab MCP** — an open-source MCP server for AI browser automation built directly on Chrome DevTools Protocol.
+**[Essential-Devs](https://github.com/Essential-Devs)** — 14-person development org. building tools at the edge of what's documented.
 
-- **[Quiten](https://quiten.tech)** — AI agent infrastructure. autonomous financial operations under a zero-trust model. Cloudflare Durable Objects, Managed OAuth. not a chatbot.
-
-
-- **[modrinth](https://modrinth.com/user/fy2ne)** — modded minecraft
+**[fy2ne.me](https://fy2ne.me)** — personal ecosystem hub. docs, changelogs, and project tooling under one roof. not a portfolio — a platform.
 
 ---
 
@@ -65,19 +62,7 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-p
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=fy2ne&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=666666&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" height="155"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fy2ne&bg_color=0d0d0d&color=333333&line=666666&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=contribution+graph" width="96%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fy2ne&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%"/>
+<img src="https://streak-stats.demolab.com/?user=fy2ne&hide_border=true&background=00000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=666666&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" height="155"/>
 
 </div>
 
@@ -89,10 +74,6 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-p
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
 [![X / Twitter](https://img.shields.io/badge/@fy2ne-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/fy2ne)
 [![Modrinth](https://img.shields.io/badge/Modrinth-000000?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/user/fy2ne)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1165043058715394199)
@@ -100,11 +81,8 @@ currently leading **[Essential-Devs](https://github.com/Essential-Devs)** a 14-p
 [![Essential-Devs](https://img.shields.io/badge/Essential--Devs-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Essential-Devs)
 [![Website](https://img.shields.io/badge/fy2ne.me-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://fy2ne.me)
 
-
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=dark&section=footer&textBg=false&fontSize=20&reversal=true&fontAlign=50&fontAlignY=69" width="100%"/>
-
 </div>
