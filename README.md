@@ -30,7 +30,7 @@ mostly working in AI agent systems, browser automation, and MCP the layer betwee
 
 **[Essential-Devs](https://github.com/Essential-Devs)** — development org. building tools at the edge of what's documented. a 14 dev shipping the things we couldn't find anywhere else.
 
-**[fy2ne.me](https://fy2ne.me)** — personal ecosystem hub. docs, changelogs, and project tooling under one roof. not a portfolio — a platform.
+**[fy2ne.me](https://fy2ne.me)** — just a personal website
 
 ---
 
