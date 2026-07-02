@@ -16,11 +16,9 @@
 
 ---
 
-i build infrastructure, not features.
+A developer. i pick up the problems that don't have solutions yet and ship them until they do.
 
-the gap between what AI tooling *promises* and what it actually *delivers* — that's where i work. low-latency execution, minimal footprint, systems designed to disappear into the background. dark-mode first, always. no placeholders.
-
-student and indie developer leading **[Essential-Devs](https://github.com/Essential-Devs)** — a 14-person org shipping the things we couldn't find anywhere else.
+mostly working in AI agent systems, browser automation, and MCP the layer between what AI can do in theory and what actually holds up in production. i work fast, i finish things, and i don't touch a project unless i'm going all the way with it.
 
 ---
 
@@ -28,9 +26,9 @@ student and indie developer leading **[Essential-Devs](https://github.com/Essent
 // active_processes
 ```
 
-**[WeaveTab MCP](https://github.com/Essential-Devs)** — open-source MCP server for AI browser automation built directly on Chrome DevTools Protocol. ships as a Chrome extension + MCP server with independent semver across both components. agentic browser control, zero overhead. you never see it work — which is the point.
+**[WeaveTab MCP](https://github.com/Weavetab)** — open-source MCP server for AI browser automation built directly on Chrome DevTools Protocol. ships as a Chrome extension + MCP server with independent semver across both components. agentic browser control, zero overhead. you never see it work — which is the point.(still in beta fy2ne/Weavetab)
 
-**[Essential-Devs](https://github.com/Essential-Devs)** — 14-person development org. building tools at the edge of what's documented.
+**[Essential-Devs](https://github.com/Essential-Devs)** — development org. building tools at the edge of what's documented. a 14 dev shipping the things we couldn't find anywhere else.
 
 **[fy2ne.me](https://fy2ne.me)** — personal ecosystem hub. docs, changelogs, and project tooling under one roof. not a portfolio — a platform.
 
