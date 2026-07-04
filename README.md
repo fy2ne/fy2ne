@@ -21,7 +21,7 @@ A developer. i pick up the problems that don't have solutions yet and ship them 
 mostly working in AI agent systems, browser automation, and MCP the layer between what AI can do in theory and what actually holds up in production. i work fast, i finish things, and i don't touch a project unless i'm going all the way with it.
 
 ---
-n
+
 ```
 // active_processes
 ```
@@ -60,7 +60,6 @@ n
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=fy2ne&hide_border=true&background=00000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=666666&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" height="155"/>
 
 </div>
 
