@@ -60,6 +60,7 @@ mostly working in AI agent systems, browser automation, and MCP the layer betwee
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=fy2ne&hide_border=true&background=00000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=666666&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" height="155"/>
 
 </div>
 
