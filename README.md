@@ -3,15 +3,9 @@
 </div>
 
 <p align="center">
-  Systems engineering · AI infrastructure · Developer tooling
+  Systems infrastructure · AI engineering · CyberSecurity
 </p>
 
-<p align="center">
-  <a href="https://muto.fy2ne.me">Muto</a> ·
-  <a href="https://vact.fy2ne.me">VACT</a> ·
-  <a href="https://weavetab.dev">Weavetab</a> ·
-  <a href="https://quiten.tech">Quiten</a>
-</p>
 
 ---
 
@@ -27,8 +21,11 @@ GPU-accelerated screen perception and IPC for autonomous desktop agents. Uses Di
 **[Weavetab](https://github.com/Weavetab)**  
 An open-source foundation for AI browser automation, built on Chrome DevTools Protocol with a local-first architecture.
 
-**Essential-Devs**  
-A development collective focused on tools, infrastructure, and systems engineering. [GitHub](https://github.com/Essential-Devs)
+**[Muto](https://github.com/fy2ne/Muto)**  
+a Dynamic runtime mod reloader and hot-swap pipeline for Fabric. Rescans mods, isolates classloaders, and thaws registries without restarting the game
+
+**[Essential Devs](https://github.com/Essential-Devs)**  
+A development collective focused on tools, infrastructure, and systems engineering. 
 
 **[fy2ne.me](https://fy2ne.me)**  
 Personal site, technical writing, and engineering notes.
