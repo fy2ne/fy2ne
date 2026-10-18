@@ -22,7 +22,7 @@ GPU-accelerated screen perception and IPC for autonomous desktop agents. Uses Di
 An open-source foundation for AI browser automation, built on Chrome DevTools Protocol with a local-first architecture.
 
 **[Muto](https://github.com/fy2ne/Muto)**  
-a Dynamic runtime mod reloader and hot-swap pipeline for Fabric. Rescans mods, isolates classloaders, and thaws registries without restarting the game
+Developer runtime. Hot-swap mods live with no JVM restart. Built on classloader rotation, live registry thawing, and a JVM agent that hooks before your game even starts.
 
 **[Essential Devs](https://github.com/Essential-Devs)**  
 A development collective focused on tools, infrastructure, and systems engineering. 
