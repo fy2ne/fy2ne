@@ -24,7 +24,7 @@ An open-source foundation for AI browser automation, built on Chrome DevTools Pr
 **[Muto](https://github.com/fy2ne/Muto)**  
 Developer runtime. Hot-swap mods live with no JVM restart. Built on classloader rotation, live registry thawing, and a JVM agent that hooks before your game even starts.
 
-**[Essential Devs](https://github.com/Essential-Devs)**  
+**[Exos Studios](https://github.com/exosstudios)**  
 A development collective focused on tools, infrastructure, and systems engineering. 
 
 **[fy2ne.me](https://fy2ne.me)**  
